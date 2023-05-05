@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Her![Bitfit Pt1](https://user-images.githubusercontent.com/93610563/236580729-7af50edc-a4cd-4cba-a2d7-139a83c7ac48.gif)
+e's a walkthrough of implemented user stories:
 
 
 
